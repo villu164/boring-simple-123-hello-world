@@ -1,0 +1,23 @@
+{
+  "name": "boring-simple-123-hello-world",
+  "version": "0.0.1",
+  "description": "Some hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "test index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villu164/hello-world.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "villu164",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/villu164/hello-world/issues"
+  },
+  "homepage": "https://github.com/villu164/hello-world#readme"
+}
